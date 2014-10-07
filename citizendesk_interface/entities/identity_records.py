@@ -18,6 +18,6 @@ entity = {
         }
     },
     'resource_methods': ['GET', 'POST'],
-    'item_methods': ['GET', 'PUT', 'PATCH', 'DELETE'],
+    'item_methods': ['GET', 'PUT', 'PATCH'],
     'pagination': False
 }
